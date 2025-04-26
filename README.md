@@ -1,8 +1,8 @@
 # Deadline Documentation
 
-Qickstart:
+## Qickstart
 
-## Install Deadline Client
+### Install Deadline Client
 First, Add the shared network location to the local machine:
 
 Fire up a powershell, type in:
