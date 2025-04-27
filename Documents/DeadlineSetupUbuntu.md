@@ -246,7 +246,7 @@ For the Deadline Launcher, the remote control setting is Block it:
 <img src="../Assets/InstallRemoteConnectionServer_06_Deadline_Launcher_Remote_Ctrl.png">
 
 
-Not sure if we should install it as a Deamon, so used the default setting: ```N```
+Not sure if we should install it as a Deamon, so used the default setting: ```N``` But if we want the Remote Connection Server to be running as a service, we should say ```Y```
 
 <img src="../Assets/InstallRemoteConnectionServer_07_Install_Launcher_As_Daemon.png">
 
