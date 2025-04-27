@@ -279,9 +279,16 @@ We then need to provide the location of the certificates, make our own for bette
 
 
 Finally, confirm and install the Remote Connection Server
+
 <img src="../Assets/InstallRemoteConnectionServer_14_ConfirmAndFinishInstallation.png">
 
 That should conclude the installation process of the Remote Connection Server.
+
+To launch ther Deadline Remote Connection Server, run:
+
+```
+/opt/DeadlineRemoteConnectionServer/bin/deadlinercs
+```
 
 The Generate Certificate should be inside the provided location above, be sure to change the ownership of the file so it can be shared to the clients.
 
