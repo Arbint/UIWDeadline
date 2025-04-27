@@ -1,5 +1,9 @@
 # Deadline Documentation
 
+Userful Topics:
+
+[Administration](./Documents/Admin.md)
+
 ## Qickstart
 
 ### Install Deadline Client

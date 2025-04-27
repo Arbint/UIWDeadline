@@ -292,4 +292,6 @@ To launch ther Deadline Remote Connection Server, run:
 
 The Generate Certificate should be inside the provided location above, be sure to change the ownership of the file so it can be shared to the clients.
 
-
+```
+TODO: We probably need to set the remote connection server as a service.
+```
