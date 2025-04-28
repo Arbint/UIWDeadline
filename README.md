@@ -81,4 +81,4 @@ Once the installer is finished, you can launch the ```Deadline Monitor``` and it
 
 If the conenct was not successful, you can hit ok to the error message, and it should allow you to reconfigure again, the image shows the correct settings (the Passphrase is uiw3d), and the Advanced TLS Options should be the first one.
 
-<img src="./Assets/openMonitory02_ConnectionSettings.png">
+<img src="./Assets/openMonitory02_ConnectionSettings.png" width=500>
